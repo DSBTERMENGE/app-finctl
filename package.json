@@ -8,5 +8,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSBTERMENGE/app-finctl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DSBTERMENGE/app-finctl/issues"
+  },
+  "homepage": "https://github.com/DSBTERMENGE/app-finctl#readme",
+  "dependencies": {
+    "@dsb/framework-ui": "github:DSBTERMENGE/framework-frontend"
+  }
 }
