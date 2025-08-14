@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "name": "Framework DSB",
+            "path": "../framework_dsb"
+        },
+        {
+            "name": "FinCtl",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "explorer.compactFolders": false,
+        "explorer.fileNesting.enabled": false,
+    "liveServer.settings.multiRootWorkspaceName": "FinCtl",
+    "liveServer.settings.root": ".."
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-vscode.live-server"
+        ]
+    }
+}
